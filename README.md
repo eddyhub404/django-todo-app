@@ -4,7 +4,7 @@ A basic CRUD TODO application built using Django and PostgreSQL.
 
 ## Live Demo
 
-https://your-render-url.onrender.com
+https://django-todo-app-ekum.onrender.com/
 
 ## Features
 
